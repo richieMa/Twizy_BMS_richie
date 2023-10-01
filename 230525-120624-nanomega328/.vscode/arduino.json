@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "usbtinyisp",
+    "port": "/dev/ttyUSB1",
+    "sketch": "src/KlausBMS.cpp"
+}
